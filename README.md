@@ -110,7 +110,7 @@ The uniform distribution is a type of probability distribution in which all outc
 
 The probability density function (PDF) of the continuous uniform distribution for a random variable ![eqauations](https://latex.codecogs.com/svg.image?X) taking values in the interval ![equations](https://latex.codecogs.com/svg.image?[a,b]) is given by:
 
-![image](https://github.com/BytesOfIntelligences/Distributions/assets/56669333/ac507d22-07c3-4475-97dc-29ef5d19dce6)
+![image](https://github.com/BytesOfIntelligences/Distributions/assets/56669333/9bd5dd95-fd39-4fa0-b4b1-91bf6577dce0)
 
 
 where:
